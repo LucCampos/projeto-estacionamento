@@ -14,7 +14,7 @@ let opcao;
 function mostrarMenu() {
   console.log("\nMenu");
   console.log("1 - Entrada de Produto");
-  console.log("2 - Saída de Produtos");
+  console.log("2 - Saída de Produto");
   console.log("3 - Sair do Sistema");
 
   rl.question("Escolha uma opção: ", (resposta) => {
