@@ -14,7 +14,7 @@ Projeto inicial de ambientação no GitHub. *(Aqui descrevo sobre o que é o rep
 
 - Git
 - Github
-- Usado `HTML` para criar a estrutura e `CSS` par ao estilo.
+- Usado `HTML` para criar a estrutura e `CSS` para o estilo.
 - (Adicionar aqui as liguagens ou ferramentas usadas)
 
 ---
